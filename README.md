@@ -1,27 +1,41 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Shop Homepage](http://startbootstrap.com/template-overviews/shop-homepage/)
+# Dark Login Form — CSS Code Snippet
 
-[Shop Homepage](http://startbootstrap.com/template-overviews/shop-homepage/) is a basic HTML online store homepage template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+**Demo**: [cssflow.com/snippets/dark-login-form/demo](http://www.cssflow.com/snippets/dark-login-form/demo)
 
-## Getting Started
+Download the latest version of this snippet [here](http://www.cssflow.com/snippets/dark-login-form.zip).
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/shop-homepage/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-shop-homepage.git`
-* Fork the repo
+[![Preview](http://cdn.cssflow.com/snippets/dark-login-form/preview-580.png)](http://www.cssflow.com/snippets/dark-login-form)
 
-## Bugs and Issues
+This snippet is implemented with [Sass](https://github.com/nex3/sass).
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-shop-homepage/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/shop-homepage/).
+To compile:
 
-## Creator
+`sass --update scss:css`
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+To compile and watch:
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+`sass --watch scss:css`
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+## Browser Compatibility
 
-## Copyright and License
+Firefox 4+, Safari 4+, Chrome 13+, Opera 10+, Internet Explorer 8+.
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/gh-pages/LICENSE) license.
+## Credits
+
+Coded by [Thibaut Courouble](http://thibaut.me).
+
+Original PSD by [Rich McNabb](http://365psd.com/day/2-234/).
+
+For more snippets, visit [CSSFlow.com](http://www.cssflow.com) or follow [@CSSFlow](https://twitter.com/CSSFlow).
+
+## License
+
+Copyright (c) 2012-2013 Thibaut Courouble
+
+Licensed under the MIT License
+
+## More CSS3
+
+Check out my [UI kits built entirely with CSS](http://www.cssflow.com/ui-kits):
+
+[![Preview](http://cdn.cssflow.com/kits/all_kits_preview_850.png)](http://www.cssflow.com/ui-kits)
