@@ -1,0 +1,9 @@
+var mydata = [ 
+    {"username":"abhilash", "password":"123Abhi"},
+    {"username":"suyash", "password":"123suy"},
+    {"username":"tarunc", "password":"123c"},
+    {"username":"vignesh", "password":"123vig"},
+    {"username":"jwngsar", "password":"123jwng"},
+    {"username":"abhju", "password":"123juju"},
+    {"username":"jajabody", "password":"deadbody"},
+];
